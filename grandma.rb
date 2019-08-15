@@ -9,6 +9,10 @@ elsif phrase == "Hi Nana, how are you?"
   return "HUH?! SPEAK UP, SONNY!"
 end
 
+elsif phrase == "Hi Nana, how are you?"
+  return "HUH?! SPEAK UP, SONNY!"
+end
+
 else phrase =="WHAT DID YOU EAT TODAY?"
   return "NO, NOT SINCE 1938!"
  end 
