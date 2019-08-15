@@ -5,7 +5,7 @@ def speak_to_grandma (phrase)
   return == "I LOVE YOU TOO PUMPKIN!"
 end
 
-elsif phrase == "lowercase whisper"
+elsif phrase == "Hi Nana, how are you?"
   return "HUH?! SPEAK UP, SONNY!"
 end
 
