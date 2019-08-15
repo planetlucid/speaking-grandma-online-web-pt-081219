@@ -13,7 +13,7 @@ elsif phrase == "Hi!"
   return "HUH?! SPEAK UP, SONNY!"
 end
 
-elsif phrase == "WHAT"
+elsif phrase == "WHAT?"
   return "NO, NOT SINCE 1938!"
 end
 
