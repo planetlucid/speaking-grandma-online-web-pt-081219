@@ -13,6 +13,10 @@ elsif phrase == "Hi!"
   return "HUH?! SPEAK UP, SONNY!"
 end
 
+elsif phrase == "WHAT"
+  return "NO, NOT SINCE 1938!"
+end
+
 else phrase =="WHAT DID YOU EAT TODAY?"
   return "NO, NOT SINCE 1938!"
  end 
