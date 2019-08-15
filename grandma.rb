@@ -9,7 +9,7 @@ elsif phrase == "Hi Nana, how are you?"
   return "HUH?! SPEAK UP, SONNY!"
 end
 
-elsif phrase == "Hi Nana, how are you?"
+elsif phrase == "Hi!"
   return "HUH?! SPEAK UP, SONNY!"
 end
 
