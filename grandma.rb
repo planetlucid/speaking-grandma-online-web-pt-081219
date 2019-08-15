@@ -1,9 +1,9 @@
 # Write a speak_to_grandma method.
-if phrase = "lowercase"
+if phrase == "lowercase whisper"
   puts "HUH?! SPEAK UP, SONNY!"
   
-else phrase ="UPPERCASE YELLING"
-  
+else phrase =="UPPERCASE YELLING"
+  puts
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
