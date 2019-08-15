@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 
-speak_to_grandma 
+def speak_to_grandma 
 if phrase == "lowercase whisper"
   puts "HUH?! SPEAK UP, SONNY!"
   
