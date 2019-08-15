@@ -1,13 +1,14 @@
 # Write a speak_to_grandma method.
 
 def speak_to_grandma (phrase)
-  if phrase == "lowercase whisper"
+  if phrase == "I LOVE YOU GRANDMA!"
+  return == "I LOVE YOU TOO PUMPKIN!"
+end
+
+elsif phrase == "lowercase whisper"
   return "HUH?! SPEAK UP, SONNY!"
 end
 
-elsif phrase == "I LOVE YOU GRANDMA!"
-  return == "I LOVE YOU TOO PUMPKIN!"
-end
 else phrase =="UPPERCASE YELLING"
   return "NO, NOT SINCE 1938!"
  end 
